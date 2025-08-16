@@ -1,4 +1,4 @@
-# JavaScript String Methods Examples
+# JavaScript Programs Examples
 
 This project contains multiple JavaScript programs:
 
